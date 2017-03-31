@@ -4,6 +4,3 @@ i just do some exercises for git
 wqeqeqffafasfaf
 <<<<<<< HEAD
 Creating a new branch is quick and simple.
-=======
-Creating a new branch is quick and simple.
->>>>>>> feature1
