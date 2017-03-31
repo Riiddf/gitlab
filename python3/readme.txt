@@ -4,3 +4,4 @@ i just do some exercises for git
 wqeqeqffafasfaf
 <<<<<<< HEAD
 Creating a new branch is quick and simple.
+Readme.txt is 201703311655 xiabanqiang
