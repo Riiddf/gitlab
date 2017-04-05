@@ -15,4 +15,3 @@ elif  bmi>=28 and bmi<32:
     print('BMI=%.2f'%bmi,'你的体重肥胖')
 else:
     print('BMI=%.2f'%bmi,'你的体重严重肥胖')
-    1236123132131
